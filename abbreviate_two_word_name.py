@@ -1,2 +1,4 @@
 def abbrev_name(name):
-  pass
+    arr=name.upper().split(" ")
+    new_name=arr[0][0]+"."+arr[1][0]
+    return new_name
