@@ -1,2 +1,3 @@
 def litres(time):
-    pass
+    import math
+    return math.floor(time*0.5)
