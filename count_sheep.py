@@ -1,4 +1,4 @@
-def count_sheeps(sheep):
+def count_sheep(sheep):
     count=0
     for i in sheep:
         if i==True:

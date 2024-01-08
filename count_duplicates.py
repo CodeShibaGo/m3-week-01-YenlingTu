@@ -1,5 +1,5 @@
 # Write Python 3 code in this online editor and run it.
-def duplicate_count(text):
+def count_duplicates(text):
     text=text.lower()
     new=[]
     for i in text:
